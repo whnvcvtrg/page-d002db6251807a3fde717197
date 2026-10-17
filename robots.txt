@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-bc28975296.xdhgpa.cn/sitemap.xml
